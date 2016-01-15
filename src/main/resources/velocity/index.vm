@@ -1,0 +1,6 @@
+#parse("/velocity/layout.vm")
+#@mainLayout()
+    <h1>Browse and Rate Local Eateries</h1>
+    <p>Here is some placeholder text</p>
+    <a href="/add-restaurant">Add a restaurant</a>
+#end
